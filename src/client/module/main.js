@@ -4,7 +4,7 @@ module.exports = function mainView (state, emit) {
     return html`
       <body>
         <h1>count is ${state.count}</h1>
-        <button onclick=${onclick}>Incrementz</button>
+        <button onclick=${onclick}>Incrementzoids</button>
       </body>
     `
 
